@@ -4,7 +4,7 @@ A front-end web application that allows users to register, log in, take typing t
 
 ---
 
-## 🧩 Pages & Assignments
+## Pages & Assignments
 
 | Page                          | Responsible Team Member               |
 |------------------------------|---------------------------------------|
@@ -26,7 +26,7 @@ A front-end web application that allows users to register, log in, take typing t
 
 ---
 
-## 🚀 Local Setup Instructions
+## Local Setup Instructions
 
 ### 1. Clone the repository
 
