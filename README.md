@@ -31,5 +31,5 @@ A front-end web application that allows users to register, log in, take typing t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tolarom/typing-test-webapp.git
+git clone https://github.com/tolarom/i3_typing_master.git
 cd i3_typing_master
